@@ -1,0 +1,6 @@
+category_encoders
+numpy
+pandas
+scikit-learn
+seaborn
+xgboost
